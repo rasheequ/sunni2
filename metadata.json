@@ -1,0 +1,7 @@
+{
+  "name": "Sunni Finder India",
+  "description": "The largest directory of Sunni Masjids, Madrasas, and Maqbaras in India.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
